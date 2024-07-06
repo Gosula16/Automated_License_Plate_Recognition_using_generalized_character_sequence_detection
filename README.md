@@ -1,0 +1,2 @@
+# Automated_License_Plate_Recognition_using_generalized_character_sequence_detection
+Automated License Plate Recognition (ALPR) using generalized character sequence detection uses computer vision and Deep learning to identify and read license plates from images or video. This technique detects and interprets character sequences, handling variations in fonts and styles. It's applied in traffic monitoring, law enforcement and many .
